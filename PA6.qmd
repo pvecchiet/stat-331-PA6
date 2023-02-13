@@ -3,6 +3,8 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 self-contained: true
+author: "Alexander Jung, Joanna Chou, Peyton Vecchiet, Julia Fung"
+
 ---
 
 ## Quarto
@@ -19,7 +21,11 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
+<<<<<<< HEAD
 11*11
+=======
+13*13
+>>>>>>> 54a4198ada8117b85b5029c029e47ac64be1f0bb
 ```
 
 You can add options to executable code like this
