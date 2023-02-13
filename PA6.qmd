@@ -1,9 +1,10 @@
 ---
 title: "Practice Activity 6"
-author: "Joanna Chou, Julia Fung, Alexander Jung, Peyton Vecchiet"
 format: html
 editor: visual
 self-contained: true
+author: "Alexander, Joanna, Peyton, Julia"
+
 ---
 
 ## Quarto
