@@ -3,7 +3,7 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 self-contained: true
-author: "Alexander, Joanna, Peyton, Julia"
+author: "Alexander Jung, Joanna Chou, Peyton Vecchiet, Julia Fung"
 
 ---
 
